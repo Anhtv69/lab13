@@ -1,0 +1,46 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/3.jpg);
+  height: 400px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/2.jpg);
+  height: 400px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/img/1.jpg);
+  height: 400px;
+}
+.text-start,
+.text-center,
+.ext-end {
+  margin-top: 100px;
+}
+
+.float-start {
+  margin-left: 50px;
+}
+.float-end {
+  margin-right: 50px;
+}
+
+.carousel-inner {
+  /* padding-top: 200px; */
+  margin: 56px 0;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  height: 335px;
+  margin-top: 120px;
+}
+.carousel-indicators {
+  margin-top: 400px;
+  top: 30px;
+}
